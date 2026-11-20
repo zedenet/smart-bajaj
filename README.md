@@ -4,6 +4,10 @@
 
 [📥 አፑን አውርዱ](<https://t.me/smartbajaj/5>) · [Telegram ድጋፍ: @zappyt](<https://t.me/zappyt>)
 
+## የአፕ ማሳያ | App dashboard
+
+![Smart Bajaj app dashboard](assets/smart-bajaj-dashboard.png)
+
 ## ስለ አፑ
 
 Smart Bajaj ለባጃጅ ሹፌሮች የተዘጋጀ አፕ ነው። ስልክዎን ሳያዩ የገቢ ክፍያ ማሳወቂያዎችን በድምፅ እንዲሰሙ፣ የቀን ገቢና የነዳጅ ወጪዎን እንዲከታተሉ እና የተጣራ ትርፍዎን እንዲያውቁ ያግዛል።
